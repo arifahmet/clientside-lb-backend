@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: lb-backend-deployment
+server:
+  port: 9900
